@@ -1,5 +1,5 @@
 # Swedish, Norwegian BankID and Danish NemID in Node.js with OIDC
-Finished sample, as described in https://grean.com/easyid/oidc/2017/02/06/easyid-with-oidc.html
+Finished sample, as described in https://grean.com/easyid/oidc/2017/02/14/easyid-with-oidc.html
 
 This sample illustrates how to set up a Node.js application that authenticates
 users using *OpenID Connect* with one of the Scandinavian national or bank 
